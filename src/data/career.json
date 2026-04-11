@@ -1,10 +1,10 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
+    "company": "LPTSI - UNIDA Gontor",
+    "role": "System Administrator",
     "period": "Oct 2025 - Present",
     "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
+    "description": "Administrating the network, ensuring system security, and overseeing IT infrastructure for smooth operations.",
     "skills": ["Leading", "Collaboration"]
   },
   {
