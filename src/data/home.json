@@ -3,7 +3,7 @@
   "photoUrl": "profile.png",
   "intro": "A <span class='text-white font-bold'>Systems Administrator</span> dedicated to architecting resilient infrastructure and managing <span class='text-white font-bold'>Kubernetes</span> clusters. I specialize in <span class='text-white font-bold'>Penetration Testing</span>, uncovering vulnerabilities in <span class='text-white font-bold'>Web Applications and APIs</span> to ensure enterprise-grade security. As a <span class='text-white font-bold'>Full Stack Developer</span>, I engineer high-performance, secure-by-design solutions utilizing <span class='text-white font-bold'>Golang Fiber</span> and <span class='text-white font-bold'>TypeScript (Express.js & Bun)</span>. I don't just build systems—I harden them for the real world.",
   "introHtml": "A <span class='text-white font-bold'>Systems Administrator</span> dedicated to architecting resilient infrastructure and managing <span class='text-white font-bold'>Kubernetes</span> clusters. I specialize in <span class='text-white font-bold'>Penetration Testing</span>, uncovering vulnerabilities in <span class='text-white font-bold'>Web Applications and APIs</span> to ensure enterprise-grade security. As a <span class='text-white font-bold'>Full Stack Developer</span>, I engineer high-performance, secure-by-design solutions utilizing <span class='text-white font-bold'>Golang Fiber</span> and <span class='text-white font-bold'>TypeScript (Express.js & Bun)</span>. I don't just build systems—I harden them for the real world.",
-  "webpageTitle": "M. Faridh Maulana | Portfolio Website",
+  "webpageTitle": "M. Faridh Maulana (Mowland Codes) | Portfolio Website",
   "resumeUrl": "/cv.pdf",
   "socials": [
     {
