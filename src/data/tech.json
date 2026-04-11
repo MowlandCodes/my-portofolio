@@ -42,7 +42,9 @@
         { "name": "GitHub", "level": 3, "icon": "skill-icons:github-dark" },
         { "name": "GitLab", "level": 2, "icon": "skill-icons:gitlab-dark" },
         { "name": "GitHub Actions", "level": 2, "icon": "skill-icons:githubactions-dark" },
-        { "name": "Terraform", "level": 1, "icon": "skill-icons:terraform-dark" }
+        { "name": "Terraform", "level": 1, "icon": "skill-icons:terraform-dark" },
+        { "name": "ArgoCD", "level": 2, "icon": "devicon:argocd" },
+        { "name": "Proxmox", "level": 2, "icon": "devicon:proxmox-wordmark" }
       ]
     },
     {
@@ -54,6 +56,10 @@
         { "name": "Kali Linux", "level": 3, "icon": "skill-icons:kali-dark" },
         { "name": "Windows", "level": 2, "icon": "skill-icons:windows-dark" }
       ]
+    },
+    {
+      "title": "Penetration Testing",
+      "skills": [{ "name": "Burp Suite", "level": 3, "icon": "devicon:burpsuite" }]
     }
   ]
 }
