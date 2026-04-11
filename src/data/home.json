@@ -1,29 +1,29 @@
 {
-  "name": "John Doe",
-  "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
+  "name": "M. Faridh Maulana",
+  "photoUrl": "profile.png",
+  "intro": "",
+  "introHtml": "A <span class='text-white font-bold'>Systems Administrator</span> dedicated to architecting resilient infrastructure and managing <span class='text-white font-bold'>Kubernetes</span> clusters. I specialize in <span class='text-white font-bold'>Penetration Testing</span>, uncovering vulnerabilities in <span class='text-white font-bold'>Web Applications and APIs</span> to ensure enterprise-grade security. As a <span class='text-white font-bold'>Full Stack Developer</span>, I engineer high-performance, secure-by-design solutions utilizing <span class='text-white font-bold'>Golang Fiber</span> and <span class='text-white font-bold'>TypeScript (Express.js & Bun)</span>. I don't just build systems—I harden them for the real world.",
+  "webpageTitle": "M. Faridh Maulana | Portfolio Website",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/MowlandCodes",
       "icon": "mdi:github"
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://linkedin.com/in/m-faridh-maulana",
       "icon": "mdi:linkedin"
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:me@mowlandcodes.my.id",
       "icon": "mdi:email"
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
+      "url": "https://wa.me/6282129673554",
       "icon": "mdi:whatsapp"
     }
   ]
