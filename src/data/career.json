@@ -1,5 +1,26 @@
 [
   {
+    "company": "Coding Camp powered by DBS Foundation",
+    "role": "Full-Stack Developer Cohort",
+    "period": "Feb 2026 - Present",
+    "type": "Apprenticeship",
+    "description": "Learning and applying skills in web development, including HTML, CSS, JavaScript, React, Node.js, Express.js, and PostgreSQL. Participating in group projects and working on real-world projects.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "Git",
+      "Problem Solving",
+      "Agile",
+      "Scrum",
+      "Communication"
+    ]
+  },
+  {
     "company": "LPTSI - UNIDA Gontor",
     "role": "System Administrator",
     "period": "Oct 2024 - Present",
