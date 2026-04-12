@@ -2,25 +2,54 @@
   {
     "company": "LPTSI - UNIDA Gontor",
     "role": "System Administrator",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
+    "period": "Oct 2024 - Present",
+    "type": "Part time job",
     "description": "Administrating the network, ensuring system security, and overseeing IT infrastructure for smooth operations.",
-    "skills": ["Leading", "Collaboration"]
+    "skills": [
+      "Linux",
+      "Virtualization",
+      "Containerization",
+      "Networking",
+      "Security",
+      "Automation",
+      "Monitoring",
+      "Problem Solving",
+      "Risk Management"
+    ]
   },
   {
-    "company": "Demo Company",
+    "company": "LPTSI - UNIDA Gontor",
     "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "period": "Dec 2024 - Present",
+    "type": "Project-based job",
+    "description": "Developing and maintaining critical web applications, ensuring high performance and scalability. Collaborating with cross-functional teams to deliver exceptional user experiences.",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "React",
+      "Elysia",
+      "Express",
+      "MySQL",
+      "Docker",
+      "Problem Solving",
+      "Agile",
+      "Scrum"
+    ]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
+    "company": "LPTSI - UNIDA Gontor",
+    "role": "Penetration Tester",
+    "period": "Aug 2024 - Dec 2024",
+    "type": "Internship",
+    "description": "Conducting penetration tests to identify vulnerabilities in web applications and APIs, ensuring the security of the system, and providing feedback to improve security measures.",
+    "skills": ["Penetration Testing", "Vulnerability Assessment", "Burp Suite"]
+  },
+  {
+    "company": "University of Darussalam Gontor",
+    "role": "Bachelor's Degree in Computer Science",
+    "period": "Feb 2024 - Feb 2028",
     "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "description": "Studying computer science and acquiring skills in programming, algorithms, and data structures. Developing a strong foundation for a successful career in the field.",
+    "skills": ["C++", "OOP", "Algorithms", "Data Science", "Statistics", "Problem Solving"]
   }
 ]
