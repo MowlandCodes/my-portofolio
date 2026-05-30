@@ -133,19 +133,16 @@ const { title } = Astro.props;
         // one letter every 250ms
         setInterval(createLetter, 250);
       } else {
-        // Static scatter effect for mobile optimization
-        const mobileCount = 20;
-        for (let i = 0; i < mobileCount; i++) {
-          createStaticLetter();
-        }
+        // Longer interval for mobile
+        setInterval(createLetter, 550);
       }
 
-      function createStaticLetter() {
+      /* function createStaticLetter() {
         if (!container) return;
 
         const span = document.createElement("span");
         const char = characters[Math.floor(Math.random() * characters.length)];
-        const color = "var(--color-darkgray)";
+        const color = colors[Math.floor(Math.random() * colors.length)];
 
         const left = Math.random() * 100;
         const top = Math.random() * 90; // Random vertical position
@@ -164,7 +161,7 @@ const { title } = Astro.props;
         span.style.textShadow = `0 0 5px ${color}`;
 
         container.appendChild(span);
-      }
+      } */
 
       // ** SCROLL TO TOP ** //
       const toTopBtn = document.getElementById("to-top");
@@ -249,4 +246,3 @@ const { title } = Astro.props;
     </script>
   </body>
 </html>
-
