@@ -2,7 +2,7 @@
   {
     "title": "Seranah UNIDA Gontor",
     "description": "An archives and letter management system, built for University of Darussalam Gontor",
-    "images": ["seranah.jpg", "#"],
+    "images": ["seranah.jpg"],
     "tech": ["Express.js", "MySQL", "React", "Tailwind CSS", "Bun", "REST API"],
     "platforms": ["web"],
     "link": "https://seranah.unida.gontor.ac.id",
@@ -11,7 +11,7 @@
   {
     "title": "Dermasight",
     "description": "A skin disease detection system that can detect skin diseases such as acne, psoriasis, melanoma, and eczema while providing deep analysis about the lesion, prevention, and severity scoring.",
-    "images": ["dermasight.png", "#"],
+    "images": ["dermasight.png"],
     "tech": ["Typescript", "Express.js", "React", "Tailwind CSS", "Bun", "REST API", "PostgreSQL"],
     "platforms": ["web"],
     "link": "https://dermasight.my.id",
