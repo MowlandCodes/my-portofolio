@@ -30,11 +30,6 @@
       "name": "Discord",
       "url": "https://discord.dog/mowlandcodes",
       "icon": "mdi:discord"
-    },
-    {
-      "name": "Blog",
-      "url": "https://blog.mowlandcodes.my.id",
-      "icon": "mdi:text-box-edit-outline"
     }
   ]
 }

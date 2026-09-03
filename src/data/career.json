@@ -1,8 +1,29 @@
 [
   {
+    "company": "Asah led by Dicoding (Supported by GoTo)",
+    "role": "AI Full-Stack Developer Cohort",
+    "period": "Aug 2026 - Present",
+    "type": "Bootcamp / Apprenticeship",
+    "description": "Participating in an intensive tech cohort program led by Dicoding and supported by GoTo. Mastering end-to-end web application development from front-end to back-end, integrating AI capabilities into web apps, prompt engineering, and building industry-standard capstone projects.",
+    "skills": [
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Front-End Web Development",
+      "Back-End Web Development",
+      "AI Application Integration",
+      "Prompt Engineering",
+      "HTML5 & CSS3",
+      "Git & Version Control",
+      "Code Review & Quality Assurance",
+      "Problem Solving",
+      "Team Collaboration & Capstone Project"
+    ]
+  },
+  {
     "company": "Coding Camp powered by DBS Foundation",
     "role": "Full-Stack Developer Cohort",
-    "period": "Feb 2026 - Present",
+    "period": "Feb 2026 - Jul 2026",
     "type": "Apprenticeship",
     "description": "Learning and applying skills in web development, including HTML, CSS, JavaScript, React, Node.js, Express.js, and PostgreSQL. Participating in group projects and working on real-world projects.",
     "skills": [
@@ -71,6 +92,13 @@
     "period": "Feb 2024 - Feb 2028",
     "type": "Student",
     "description": "Studying computer science and acquiring skills in programming, algorithms, and data structures. Developing a strong foundation for a successful career in the field.",
-    "skills": ["C++", "OOP", "Algorithms", "Data Science", "Statistics", "Problem Solving"]
+    "skills": [
+      "C++",
+      "OOP",
+      "Algorithms",
+      "Data Science",
+      "Statistics",
+      "Problem Solving"
+    ]
   }
 ]

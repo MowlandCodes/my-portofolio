@@ -7,7 +7,11 @@
         { "name": "React", "level": 2, "icon": "skill-icons:react-dark" },
         { "name": "HTML", "level": 3, "icon": "skill-icons:html" },
         { "name": "CSS", "level": 3, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 3, "icon": "skill-icons:tailwindcss-dark" }
+        {
+          "name": "Tailwind CSS",
+          "level": 3,
+          "icon": "skill-icons:tailwindcss-dark"
+        }
       ]
     },
     {
@@ -17,11 +21,15 @@
         { "name": "Typescript", "level": 3, "icon": "skill-icons:typescript" },
         { "name": "Node.js", "level": 3, "icon": "skill-icons:nodejs-dark" },
         { "name": "Bun", "level": 3, "icon": "skill-icons:bun-dark" },
-        { "name": "Express.js", "level": 3, "icon": "skill-icons:expressjs-dark" },
+        {
+          "name": "Express.js",
+          "level": 3,
+          "icon": "skill-icons:expressjs-dark"
+        },
         { "name": "Flask", "level": 2, "icon": "skill-icons:flask-dark" },
         { "name": "Django", "level": 2, "icon": "skill-icons:django" },
         { "name": "Python", "level": 3, "icon": "skill-icons:python-dark" },
-        { "name": "Go", "level": 1, "icon": "skill-icons:golang" }
+        { "name": "Go", "level": 2, "icon": "skill-icons:golang" }
       ]
     },
     {
@@ -30,7 +38,11 @@
         { "name": "MySQL", "level": 2, "icon": "skill-icons:mysql-dark" },
         { "name": "MongoDB", "level": 2, "icon": "skill-icons:mongodb" },
         { "name": "SQLite", "level": 2, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        {
+          "name": "PostgreSQL",
+          "level": 2,
+          "icon": "skill-icons:postgresql-dark"
+        }
       ]
     },
     {
@@ -41,8 +53,16 @@
         { "name": "Git", "level": 3, "icon": "skill-icons:git" },
         { "name": "GitHub", "level": 3, "icon": "skill-icons:github-dark" },
         { "name": "GitLab", "level": 2, "icon": "skill-icons:gitlab-dark" },
-        { "name": "GitHub Actions", "level": 2, "icon": "skill-icons:githubactions-dark" },
-        { "name": "Terraform", "level": 1, "icon": "skill-icons:terraform-dark" },
+        {
+          "name": "GitHub Actions",
+          "level": 2,
+          "icon": "skill-icons:githubactions-dark"
+        },
+        {
+          "name": "Terraform",
+          "level": 1,
+          "icon": "skill-icons:terraform-dark"
+        },
         { "name": "ArgoCD", "level": 2, "icon": "devicon:argocd" },
         { "name": "Proxmox", "level": 2, "icon": "devicon:proxmox-wordmark" }
       ]
@@ -50,6 +70,7 @@
     {
       "title": "Operating System",
       "skills": [
+        { "name": "Fedora", "level": 3, "icon": "devicon:fedora" },
         { "name": "Arch Linux", "level": 3, "icon": "skill-icons:arch-dark" },
         { "name": "Debian", "level": 3, "icon": "skill-icons:debian-dark" },
         { "name": "Ubuntu", "level": 3, "icon": "skill-icons:ubuntu-dark" },
@@ -59,7 +80,9 @@
     },
     {
       "title": "Penetration Testing",
-      "skills": [{ "name": "Burp Suite", "level": 3, "icon": "devicon:burpsuite" }]
+      "skills": [
+        { "name": "Burp Suite", "level": 3, "icon": "devicon:burpsuite" }
+      ]
     }
   ]
 }

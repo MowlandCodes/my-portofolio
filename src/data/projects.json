@@ -1,18 +1,70 @@
 [
   {
-    "title": "Seranah UNIDA Gontor",
+    "title": "Seranah - UNIDA Gontor",
     "description": "An archives and letter management system, built for University of Darussalam Gontor",
     "images": ["seranah.jpg"],
-    "tech": ["Typescript", "Express", "MySQL", "React", "Tailwind CSS", "Bun", "REST API", "Prisma ORM"],
+    "tech": [
+      "Typescript",
+      "Express",
+      "MySQL",
+      "React",
+      "Tailwind CSS",
+      "Bun",
+      "REST API",
+      "Prisma ORM"
+    ],
     "platforms": ["web"],
     "link": "https://seranah.unida.gontor.ac.id",
     "category": "Published Website"
   },
   {
+    "title": "SIAKAD - UNIDA Gontor",
+    "description": "An Integrated Academic Information System, built for University of Darussalam Gontor",
+    "images": ["seranah.jpg"],
+    "tech": ["PHP", "Yii2", "MySQL", "Bootstrap", "REST API"],
+    "platforms": ["web"],
+    "link": "https://neosiakad.unida.gontor.ac.id",
+    "category": "Published Website"
+  },
+  {
+    "title": "SIMPEG - UNIDA Gontor",
+    "description": "An Integrated Academic Lecture Information System, built for University of Darussalam Gontor",
+    "images": ["seranah.jpg"],
+    "tech": ["PHP", "Yii2", "MySQL", "Bootstrap", "REST API"],
+    "platforms": ["web"],
+    "link": "https://simpeg.unida.gontor.ac.id",
+    "category": "Published Website"
+  },
+  {
+    "title": "Green Waste Vision",
+    "description": "A Smart Waste Classification System, built with Machine Learning Model integrated with a Web Application",
+    "images": ["green.jpg"],
+    "tech": [
+      "Typescript",
+      "Express.js",
+      "React",
+      "Tailwind CSS",
+      "REST API",
+      "MongoDB"
+    ],
+    "platforms": ["github"],
+    "link": "https://github.com/MowlandCodes/GreenWasteVision",
+    "category": "Project Repository"
+  },
+  {
     "title": "Dermasight",
     "description": "A skin disease detection system that can detect skin diseases such as acne, psoriasis, melanoma, and eczema while providing deep analysis about the lesion, prevention, and severity scoring.",
     "images": ["dermasight.png"],
-    "tech": ["Typescript", "Express.js", "React", "Tailwind CSS", "Bun", "REST API", "PostgreSQL", "Prisma ORM"],
+    "tech": [
+      "Typescript",
+      "Express.js",
+      "React",
+      "Tailwind CSS",
+      "Bun",
+      "REST API",
+      "PostgreSQL",
+      "Prisma ORM"
+    ],
     "platforms": ["web"],
     "link": "https://dermasight.my.id",
     "category": "Published Website"
