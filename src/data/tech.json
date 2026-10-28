@@ -4,6 +4,7 @@
       "title": "Frontend",
       "skills": [
         { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
+        { "name": "Next.js", "level": 2, "icon": "skill-icons:nextjs-dark" },
         { "name": "React", "level": 2, "icon": "skill-icons:react-dark" },
         { "name": "HTML", "level": 3, "icon": "skill-icons:html" },
         { "name": "CSS", "level": 3, "icon": "skill-icons:css" },
@@ -26,6 +27,7 @@
           "level": 3,
           "icon": "skill-icons:expressjs-dark"
         },
+        { "name": "Elysia", "level": 2, "icon": "skill-icons:elysia-dark" },
         { "name": "Flask", "level": 2, "icon": "skill-icons:flask-dark" },
         { "name": "Django", "level": 2, "icon": "skill-icons:django" },
         { "name": "Python", "level": 3, "icon": "skill-icons:python-dark" },
@@ -48,22 +50,22 @@
     {
       "title": "DevOps",
       "skills": [
-        { "name": "Kubernetes", "level": 2, "icon": "skill-icons:kubernetes" },
-        { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
+        { "name": "Kubernetes", "level": 3, "icon": "skill-icons:kubernetes" },
+        { "name": "Docker", "level": 3, "icon": "skill-icons:docker" },
         { "name": "Git", "level": 3, "icon": "skill-icons:git" },
         { "name": "GitHub", "level": 3, "icon": "skill-icons:github-dark" },
-        { "name": "GitLab", "level": 2, "icon": "skill-icons:gitlab-dark" },
+        { "name": "GitLab", "level": 3, "icon": "skill-icons:gitlab-dark" },
         {
           "name": "GitHub Actions",
-          "level": 2,
+          "level": 3,
           "icon": "skill-icons:githubactions-dark"
         },
         {
           "name": "Terraform",
-          "level": 1,
+          "level": 3,
           "icon": "skill-icons:terraform-dark"
         },
-        { "name": "ArgoCD", "level": 2, "icon": "devicon:argocd" },
+        { "name": "ArgoCD", "level": 3, "icon": "devicon:argocd" },
         { "name": "Proxmox", "level": 2, "icon": "devicon:proxmox-wordmark" }
       ]
     },

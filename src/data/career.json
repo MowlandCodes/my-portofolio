@@ -43,8 +43,8 @@
   },
   {
     "company": "LPTSI - UNIDA Gontor",
-    "role": "System / Server Administrator",
-    "period": "Oct 2024 - Present",
+    "role": "Server Administrator",
+    "period": "Oct 2025 - Present",
     "type": "Part time job",
     "description": "Administrating the network, ensuring system security, and overseeing IT infrastructure for smooth operations.",
     "skills": [
@@ -57,6 +57,28 @@
       "Monitoring",
       "Problem Solving",
       "Risk Management"
+    ]
+  },
+  {
+    "company": "LPTSI - UNIDA Gontor",
+    "role": "Backend Engineer",
+    "period": "Aug 2025 - Present",
+    "type": "Project-based job",
+    "description": "Developing secure high-quality API for campus application, and ensuring high performance and scalability while also strengthening the security aspect of the API.",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Elysia",
+      "Express",
+      "Python",
+      "FastAPI",
+      "Go",
+      "Fiber",
+      "MySQL",
+      "Docker",
+      "Problem Solving",
+      "Agile",
+      "Scrum"
     ]
   },
   {
